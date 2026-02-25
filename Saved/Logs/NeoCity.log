@@ -2722,3 +2722,69 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.25-21.44.16:089][529]LogPlayLevel: Display: Destroying online subsystem :Context_7
 [2026.02.25-21.51.57:179][938]LogSlate: Window 'Movie Render Queue' being destroyed
 [2026.02.25-21.51.57:186][938]LogSlate: Window 'Movie Render Queue' being destroyed
+[2026.02.25-22.00.05:330][481]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000022B04E34D00) on the [0x0000022A885052C0, 3D] queue has not completed after 5.000378 seconds.
+[2026.02.25-22.00.05:330][481]LogD3D12RHI: Warning: GPU timeout: A payload (0x0000022B04E3BD00) on the [0x0000022A88505840, Compute] queue has not completed after 5.000234 seconds.
+[2026.02.25-22.00.35:937][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.25-22.00.51:435][594]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2026.02.25-22.00.51:435][594]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2026.02.25-22.00.51:859][594]LogStall: Shutdown...
+[2026.02.25-22.00.51:859][594]LogStall: Shutdown complete.
+[2026.02.25-22.00.51:882][594]LogStaticMesh: Warning: Invalid material [Material_001] used on Nanite static mesh [street]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.02.25-22.00.51:883][594]LogStaticMesh: Warning: Invalid material [Material_001] used on Nanite static mesh [street]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.02.25-22.00.51:910][594]LogStaticMesh: Warning: Invalid material [Material_001] used on Nanite static mesh [street]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.02.25-22.00.51:910][594]LogStaticMesh: Warning: Invalid material [Material_001] used on Nanite static mesh [street]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.02.25-22.00.51:910][594]LogStaticMesh: Warning: Invalid material [Material_001] used on Nanite static mesh [street]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.02.25-22.00.51:910][594]LogStaticMesh: Warning: Invalid material [Material_001] used on Nanite static mesh [street]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.02.25-22.00.51:926][594]LogSequenceNavigator: Deactivating provider: LevelSequence
+[2026.02.25-22.00.51:932][594]LogSequenceNavigator: Provider unregistered: LevelSequence
+[2026.02.25-22.00.52:177][594]LogSlate: Window 'Message Log' being destroyed
+[2026.02.25-22.00.52:185][594]LogSlate: Window 'NeoCity - Unreal Editor' being destroyed
+[2026.02.25-22.00.52:186][594]LogWindowsTextInputMethodSystem: Activated input method: Deutsch (Deutschland) - (Keyboard).
+[2026.02.25-22.00.53:140][594]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2026.02.25-22.00.53:140][594]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.02.25-22.00.53:163][594]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=AudioMixerPlatformInterface. Timeout waiting for h/w.
+[2026.02.25-22.00.53:164][594]Cmd: QUIT_EDITOR
+[2026.02.25-22.00.53:164][594]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.02.25-22.00.53:571][595]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.02.25-22.00.53:609][595]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.02.25-22.00.53:609][595]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.02.25-22.00.53:729][595]LogWorld: UWorld::CleanupWorld for Default, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-22.00.53:729][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-22.00.53:729][595]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Default.Default
+[2026.02.25-22.00.53:993][595]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.02.25-22.00.53:994][595]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.02.25-22.00.54:028][595]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.02.25-22.00.54:125][595]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{3aa48010-105f-4be9-8514-c1b7796b290d}, Name=Lautsprecher (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=23.93
+[2026.02.25-22.00.54:149][595]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2026.02.25-22.00.54:149][595]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.02.25-22.00.54:152][595]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.02.25-22.00.54:152][595]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-22.00.54:152][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-22.00.54:152][595]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-22.00.54:153][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-22.00.54:153][595]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-22.00.54:153][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-22.00.54:153][595]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-22.00.54:153][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-22.00.54:153][595]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-22.00.54:153][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-22.00.54:154][595]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-22.00.54:154][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-22.00.54:164][595]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.02.25-22.00.54:164][595]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.02.25-22.00.54:263][595]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.02.25-22.00.54:804][595]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.02.25-22.00.54:804][595]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.02.25-22.00.54:804][595]LogAudio: Display: Audio Device unregistered from world 'Default'.
+[2026.02.25-22.00.54:805][595]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.02.25-22.00.54:805][595]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.02.25-22.00.54:807][595]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.02.25-22.00.54:816][595]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.02.25-22.00.54:827][595]LogAudio: Display: Audio Device Manager Shutdown
+[2026.02.25-22.00.54:838][595]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.02.25-22.00.54:838][595]LogExit: Preparing to exit.
+[2026.02.25-22.00.55:229][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.25-22.00.56:668][595]LogEditorDataStorage: Deinitializing
+[2026.02.25-22.00.58:524][595]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.02.25-22.00.58:906][595]LogExit: Editor shut down
+[2026.02.25-22.00.58:915][595]LogExit: Transaction tracking system shut down
