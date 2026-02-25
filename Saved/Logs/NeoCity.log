@@ -6193,3 +6193,55 @@ Sampler Limit: 32
 [2026.02.25-21.00.21:521][357]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.25-21.00.21:521][357]AssetCheck: /Game/Animation/Film Validating asset
 [2026.02.25-21.00.21:521][357]AssetCheck: /Game/Default Validating asset
+[2026.02.25-21.02.19:301][972]LogSequenceNavigator: Deactivating provider: LevelSequence
+[2026.02.25-21.02.19:303][972]LogSequenceNavigator: Provider unregistered: LevelSequence
+[2026.02.25-21.02.44:539][329]LogSlate: External Image Picker: DecompressImage failed
+[2026.02.25-21.03.48:958][425]LogSlate: Window 'Project Settings' being destroyed
+[2026.02.25-21.03.48:964][425]LogSlate: Window 'Project Settings' being destroyed
+[2026.02.25-21.03.52:749][671]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.02.25-21.04.03:121][788]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2026.02.25-21.04.03:121][788]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2026.02.25-21.04.03:121][788]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Default.Default:PersistentLevel.PostProcessVolume_0
+[2026.02.25-21.04.03:132][788]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Default.Default:PersistentLevel.PostProcessVolume_0
+[2026.02.25-21.04.04:941][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2026.02.25-21.04.04:945][897]LogEditorActor: Deleted 0 Actors (0.054 secs)
+[2026.02.25-21.04.04:950][897]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2026.02.25-21.04.04:950][897]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2026.02.25-21.04.04:953][897]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Default.Default:PersistentLevel.PostProcessVolume_UAID_D843AE61F88191C202_1823824890
+[2026.02.25-21.04.04:954][897]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/Default.Default:PersistentLevel.PostProcessVolume_UAID_D843AE61F88191C202_1823824890
+[2026.02.25-21.04.14:725][344]LogTemp: Warning: UI Min (1.0) >= UI Max (.01) for Ranged Numeric property /Script/Engine.PostProcessSettings:LumenDiffuseColorBoost
+[2026.02.25-21.04.23:220][747]Cmd: DELETE
+[2026.02.25-21.04.23:220][747]Cmd: ACTOR DELETE
+[2026.02.25-21.04.23:258][747]LogEditorActor: Deleted Actor: PostProcessVolume
+[2026.02.25-21.04.23:272][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.02.25-21.04.23:277][747]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2026.02.25-21.05.37:699][955]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Animation/Film.Film
+[2026.02.25-21.05.37:777][955]LogSequenceNavigator: Activating provider: LevelSequence
+[2026.02.25-21.05.37:777][955]LogSequenceNavigator: Loading provider state: LevelSequence
+[2026.02.25-21.05.37:812][955]LogSequenceNavigator: Tool instance 'LevelSequenceEditor' provider 'LevelSequence' registered
+[2026.02.25-21.05.42:005][146]LogStaticMesh: Warning: Invalid material [Material_001] used on Nanite static mesh [street]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.02.25-21.05.42:005][146]LogStaticMesh: Warning: Invalid material [Material_001] used on Nanite static mesh [street]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.02.25-21.05.42:026][146]LogStaticMesh: Warning: Invalid material [Material_001] used on Nanite static mesh [street]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.02.25-21.05.42:026][146]LogStaticMesh: Warning: Invalid material [Material_001] used on Nanite static mesh [street]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.02.25-21.05.42:026][146]LogStaticMesh: Warning: Invalid material [Material_001] used on Nanite static mesh [street]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.02.25-21.05.42:026][146]LogStaticMesh: Warning: Invalid material [Material_001] used on Nanite static mesh [street]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2026.02.25-21.06.25:795][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.02.25-21.06.26:586][762]LogSlate: Window 'Save Content' being destroyed
+[2026.02.25-21.06.26:597][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-21.06.26:649][762]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Default/D/6K/Z7SDHNFAFYRYXR46YMGQOP
+[2026.02.25-21.06.26:651][762]LogSavePackage: Moving '../../../../../../Users/pmark/Documents/GitHub/UE5AnimFilm/Saved/Z7SDHNFAFYRYXR46YMGQOP0089B4BD4F0BBE6D5E2828805E1BFE79.tmp' to '../../../../../../Users/pmark/Documents/GitHub/UE5AnimFilm/Content/__ExternalActors__/Default/D/6K/Z7SDHNFAFYRYXR46YMGQOP.uasset'
+[2026.02.25-21.06.26:666][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 68.400 ms (total: 1.86 sec)
+[2026.02.25-21.06.26:714][762]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.25-21.06.26:714][762]LogContentValidation: Enabled validators:
+[2026.02.25-21.06.26:714][762]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-21.06.26:714][762]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-21.06.26:714][762]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-21.06.26:714][762]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-21.06.26:714][762]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-21.06.26:714][762]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-21.06.26:715][762]AssetCheck: /Game/Default Validating asset
+[2026.02.25-21.06.26:739][762]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/pmark/Documents/GitHub/UE5AnimFilm/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.25-21.07.01:486][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.02.25-21.07.01:488][744]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Default' took 0.018
+[2026.02.25-21.07.18:998][350]LogSlate: Window 'Plugins' being destroyed
+[2026.02.25-21.07.19:007][350]LogSlate: Window 'Plugins' being destroyed
