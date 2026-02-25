@@ -1251,3 +1251,103 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2026.02.25-13.16.48:664][  1]LogStreaming: Display: FlushAsyncLoading(409,410,411,412,413,414,415,416,417,418,419,420,421,422,423,424,425,426,427,428,429,430,431,432,433,434,435,436,437,438,439,440,441,442,443,444,445,446,447,448,449,450,451,452,453,454,455,456,457,458,459,460,461,462,463,464,465,466,467,468,469,470,471,472): 64 QueuedPackages, 0 AsyncPackages
 [2026.02.25-13.16.48:890][  1]LogSourceControl: Uncontrolled asset discovery finished in 0.372081 seconds (Found 7905 uncontrolled assets)
 [2026.02.25-13.16.51:340][ 25]LogMeshUtilities: Finished distance field build in 2.6s - 126x126x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_5
+[2026.02.25-13.17.03:257][ 61]LogMeshUtilities: Finished distance field build in 14.5s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 42% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.04:373][ 64]LogMeshUtilities: Finished distance field build in 15.6s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 45% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.05:062][ 66]LogMeshUtilities: Finished distance field build in 16.3s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 50% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.05:676][ 70]LogMeshUtilities: Finished distance field build in 16.9s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 53% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.07:141][ 75]LogMeshUtilities: Finished distance field build in 18.4s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 67% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.07:835][ 77]LogMeshUtilities: Finished distance field build in 19.1s - 126x126x126 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 69% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.16:683][163]LogMeshUtilities: Finished distance field build in 9.5s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 53% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.18:268][171]LogMeshUtilities: Finished distance field build in 11.1s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 66% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.19:673][175]LogMeshUtilities: Finished distance field build in 12.5s - 126x126x126 sparse distance field, 2.3Mb total, 0.1Mb always loaded, 66% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.22:509][190]LogSlate: Took 0.001563 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.02.25-13.17.22:980][199]LogMeshUtilities: Finished distance field build in 4.7s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.25:988][290]LogMeshUtilities: Finished distance field build in 7.7s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 63% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.28:460][386]LogMeshUtilities: Finished distance field build in 4.9s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 39% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.29:697][390]LogMeshUtilities: Finished distance field build in 6.1s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 49% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.33:260][478]LogMeshUtilities: Finished distance field build in 4.0s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 39% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.36:409][665]LogMeshUtilities: Finished distance field build in 7.2s - 126x126x126 sparse distance field, 2.1Mb total, 0.1Mb always loaded, 58% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.40:244][895]LogMeshUtilities: Finished distance field build in 6.6s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 39% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.41:232][953]LogMeshUtilities: Finished distance field build in 7.6s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 46% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.44:151][127]LogMeshUtilities: Finished distance field build in 10.5s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 61% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.49:130][425]LogMeshUtilities: Finished distance field build in 7.8s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 46% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.50:799][525]LogMeshUtilities: Finished distance field build in 9.4s - 126x126x126 sparse distance field, 2.2Mb total, 0.1Mb always loaded, 62% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.53:847][707]LogMeshUtilities: Finished distance field build in 12.5s - 126x126x126 sparse distance field, 3.3Mb total, 0.1Mb always loaded, 100% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.55:780][821]LogMeshUtilities: Finished distance field build in 4.1s - 126x126x35 sparse distance field, 0.9Mb total, 0.0Mb always loaded, 100% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.17.56:424][860]LogMeshUtilities: Finished distance field build in 4.7s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.00:788][118]LogMeshUtilities: Finished distance field build in 4.7s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 47% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.00:876][123]LogMeshUtilities: Finished distance field build in 4.8s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 48% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.07:305][506]LogMeshUtilities: Finished distance field build in 6.4s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 42% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.08:704][590]LogMeshUtilities: Finished distance field build in 7.8s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 55% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.10:730][710]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x7 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.11:640][765]LogMeshUtilities: Finished distance field build in 10.8s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 73% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.14:834][955]LogMeshUtilities: Finished distance field build in 5.8s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 45% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.16:895][ 78]LogMeshUtilities: Finished distance field build in 7.9s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 58% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.20:564][295]LogMeshUtilities: Finished distance field build in 5.7s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 48% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.20:686][302]LogMeshUtilities: Finished distance field build in 5.8s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 50% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.27:762][559]LogMeshUtilities: Finished distance field build in 7.1s - 126x126x126 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 75% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.32:038][790]LogMeshUtilities: Finished distance field build in 8.2s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 43% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.32:329][807]LogDerivedDataCache: C:/Users/markelipeter/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.25-13.18.33:486][876]LogMeshUtilities: Finished distance field build in 9.6s - 126x126x126 sparse distance field, 2.0Mb total, 0.1Mb always loaded, 57% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.36:529][ 58]LogMeshUtilities: Finished distance field build in 12.7s - 126x126x126 sparse distance field, 3.1Mb total, 0.1Mb always loaded, 94% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.39:520][237]LogMeshUtilities: Finished distance field build in 5.2s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 45% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.39:566][239]LogMeshUtilities: Finished distance field build in 5.2s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 44% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.44:176][404]LogMeshUtilities: Finished distance field build in 4.6s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.47:711][415]LogMeshUtilities: Finished distance field build in 6.0s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 39% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.48:015][416]LogMeshUtilities: Finished distance field build in 6.3s - 126x126x126 sparse distance field, 1.6Mb total, 0.1Mb always loaded, 42% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.48:415][417]LogMeshUtilities: Finished distance field build in 6.7s - 126x126x126 sparse distance field, 1.8Mb total, 0.1Mb always loaded, 48% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.50:673][427]LogMeshUtilities: Finished distance field build in 2.5s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.56:023][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.02.25-13.18.56:115][496]LogStreaming: Display: FlushAsyncLoading(473): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-13.18.56:137][496]LogChaosDD: Creating Chaos Debug Draw Scene for world Default
+[2026.02.25-13.18.56:138][496]LogWorldPartition: ULevel::OnLevelLoaded(Default)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.25-13.18.56:138][496]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.25-13.18.56:138][496]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Default.Default, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.25-13.18.56:199][496]LogTexture: Display: Texture /Game/Default.Default:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927.MinimapTexture is virtual and has NoMips - forcing to SimpleAverage.
+[2026.02.25-13.18.56:199][496]LogTexture: Display: Texture /Game/Default.Default:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927.MinimapTexture is virtual and has NoMips - forcing to SimpleAverage.
+[2026.02.25-13.18.56:199][496]LogTexture: Display: Texture /Game/Default.Default:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927.MinimapTexture is virtual and has NoMips - forcing to SimpleAverage.
+[2026.02.25-13.18.56:199][496]LogTexture: Display: Texture /Game/Default.Default:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927.MinimapTexture is virtual and has NoMips - forcing to SimpleAverage.
+[2026.02.25-13.18.56:200][496]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.8.dll
+[2026.02.25-13.18.56:240][496]LogWorldPartition: Display: WorldPartition initialize took 101.417 ms (total: 510.916 ms)
+[2026.02.25-13.18.56:243][496]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Default.Default
+[2026.02.25-13.18.56:244][496]Cmd: MAP LOAD FILE="../../../../../../Users/markelipeter/Documents/GitHub/UE5AnimFilm/Content/Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2026.02.25-13.18.56:309][496]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-13.18.56:310][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-13.18.56:310][496]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2026.02.25-13.18.57:254][496]LogMeshUtilities: Finished distance field build in 7.6s - 126x126x126 sparse distance field, 3.3Mb total, 0.1Mb always loaded, 100% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.59:416][496]LogMeshUtilities: Finished distance field build in 4.3s - 126x126x126 sparse distance field, 1.4Mb total, 0.1Mb always loaded, 38% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.59:727][496]LogMeshUtilities: Finished distance field build in 4.6s - 126x126x126 sparse distance field, 1.7Mb total, 0.1Mb always loaded, 46% occupied, 0 triangles, StaticMesh_HLOD0_Instancing_3
+[2026.02.25-13.18.59:728][496]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.25-13.18.59:763][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.25-13.18.59:813][496]LogWorld: UWorld::CleanupWorld for Default, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-13.18.59:814][496]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-13.18.59:814][496]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Default.Default
+[2026.02.25-13.18.59:856][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.25-13.18.59:893][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.02.25-13.18.59:913][496]LogAudio: Display: Audio Device (ID: 1) registered with world 'Default'.
+[2026.02.25-13.18.59:913][496]LogChaosDD: Creating Chaos Debug Draw Scene for world Default
+[2026.02.25-13.18.59:917][496]LogWorldPartition: ULevel::OnLevelLoaded(Default)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.02.25-13.18.59:917][496]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.25-13.18.59:917][496]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Default.Default, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.25-13.18.59:941][496]LogTexture: Display: Texture /Game/Default.Default:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927.MinimapTexture is virtual and has NoMips - forcing to SimpleAverage.
+[2026.02.25-13.18.59:941][496]LogTexture: Display: Texture /Game/Default.Default:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927.MinimapTexture is virtual and has NoMips - forcing to SimpleAverage.
+[2026.02.25-13.18.59:941][496]LogTexture: Display: Texture /Game/Default.Default:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927.MinimapTexture is virtual and has NoMips - forcing to SimpleAverage.
+[2026.02.25-13.18.59:941][496]LogTexture: Display: Texture /Game/Default.Default:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927.MinimapTexture is virtual and has NoMips - forcing to SimpleAverage.
+[2026.02.25-13.19.01:037][496]LogWorldPartition: Display: WorldPartition initialize took 1.12 sec (total: 1.63 sec)
+[2026.02.25-13.19.01:216][496]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (T-Pose) ...
+[2026.02.25-13.19.01:505][496]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.02.25-13.19.01:533][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.02.25-13.19.01:542][496]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.02.25-13.19.01:543][496]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,4ms to complete.
+[2026.02.25-13.19.01:885][496]LogTexture: Display: Texture /Game/Default.Default:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927.MinimapTexture is virtual and has NoMips - forcing to SimpleAverage.
+[2026.02.25-13.19.01:885][496]LogTexture: Display: Texture /Game/Default.Default:PersistentLevel.WorldPartitionMiniMap_UAID_3497F631D5890DD300_1296925927.MinimapTexture is virtual and has NoMips - forcing to SimpleAverage.
+[2026.02.25-13.19.44:790][606]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.02.25-13.19.44:886][607]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.02.25-13.19.44:991][608]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.02.25-13.19.45:092][609]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.02.25-13.19.45:188][610]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.02.25-13.19.45:651][617]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Animation/Film.Film
+[2026.02.25-13.19.45:796][617]LogSequenceNavigator: Activating provider: LevelSequence
+[2026.02.25-13.19.45:797][617]LogSequenceNavigator: Loading provider state: LevelSequence
+[2026.02.25-13.19.45:833][617]LogSequenceNavigator: Tool instance 'LevelSequenceEditor' provider 'LevelSequence' registered
+[2026.02.25-13.19.45:834][617]LogStreaming: Display: FlushAsyncLoading(698): 1 QueuedPackages, 0 AsyncPackages
