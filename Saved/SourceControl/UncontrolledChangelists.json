@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/markelipeter/Documents/GitHub/UE5AnimFilm/Content/Char2Anim/Looking_Around.uasset",
+				"C:/Users/markelipeter/Documents/GitHub/UE5AnimFilm/Content/Char2Anim/Backflip.uasset",
+				"C:/Users/markelipeter/Documents/GitHub/UE5AnimFilm/Content/Char2Anim/Crawl_Backwards.uasset"
+			]
+		}
+	]
+}

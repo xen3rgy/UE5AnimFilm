@@ -1351,3 +1351,185 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2026.02.25-13.19.45:797][617]LogSequenceNavigator: Loading provider state: LevelSequence
 [2026.02.25-13.19.45:833][617]LogSequenceNavigator: Tool instance 'LevelSequenceEditor' provider 'LevelSequence' registered
 [2026.02.25-13.19.45:834][617]LogStreaming: Display: FlushAsyncLoading(698): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-13.31.41:574][ 93]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.02.25-13.31.41:709][ 95]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.02.25-13.31.49:080][156]LogStreaming: Display: FlushAsyncLoading(699): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-13.31.49:216][156]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/markelipeter/Downloads/Looking Around.fbx]
+[2026.02.25-13.31.51:716][156]LogSlate: Window 'Import Content' being destroyed
+[2026.02.25-13.31.51:794][156]LogInterchangeEngine: [Pending] Importing
+[2026.02.25-13.31.52:222][159]LogStreaming: Display: FlushAsyncLoading(726): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-13.31.52:326][160]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Char2Anim/Looking_Around.Looking_Around (Required Memory Estimate: 2.03 MB)
+[2026.02.25-13.31.52:375][160]LogInterchangeEngine: Display: Interchange import completed [C:/Users/markelipeter/Downloads/Looking Around.fbx]
+[2026.02.25-13.31.52:386][160]LogAnimationCompression: Display: Storing compressed animation data for /Game/Char2Anim/Looking_Around.Looking_Around, at AnimationSequence/757138df51f5a249ecc6b751e6d54af09afce487
+[2026.02.25-13.31.52:387][160]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.02.25-13.31.52:387][160]LogInterchangeEngine: [Success] Import Done
+[2026.02.25-13.31.57:496][246]LogSequenceNavigator: Deactivating provider: LevelSequence
+[2026.02.25-13.31.57:516][246]LogSequenceNavigator: Provider unregistered: LevelSequence
+[2026.02.25-13.32.04:712][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.25-13.32.04:943][349]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.02.25-13.32.04:954][349]LogSlate: Took 0.008520 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.02.25-13.32.05:944][349]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.25-13.32.06:002][349]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Char2Anim/Looking_Around.Looking_Around
+	Asset Type: AnimSequence
+[2026.02.25-13.32.06:645][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.02.25-13.32.06:694][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.02.25-13.32.06:737][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.02.25-13.32.09:457][393]LogStreaming: Display: FlushAsyncLoading(727): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-13.32.09:524][393]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/markelipeter/Downloads/Looking Around.fbx]
+[2026.02.25-13.32.11:020][393]LogSlate: Window 'Import Content' being destroyed
+[2026.02.25-13.32.11:091][393]LogInterchangeEngine: [Pending] Importing
+[2026.02.25-13.32.11:503][396]LogStreaming: Display: FlushAsyncLoading(728): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-13.32.11:634][397]LogInterchangeEngine: Display: Interchange import completed [C:/Users/markelipeter/Downloads/Looking Around.fbx]
+[2026.02.25-13.32.11:640][397]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.02.25-13.32.11:640][397]LogInterchangeEngine: [Success] Import Done
+[2026.02.25-13.32.14:563][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.25-13.32.15:364][437]LogSlate: Window 'Save Content' being destroyed
+[2026.02.25-13.32.15:417][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-13.32.15:523][437]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Char2Anim/Looking_Around] ([1] browsable assets)...
+[2026.02.25-13.32.15:539][437]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Char2Anim/Looking_Around.Looking_Around]
+[2026.02.25-13.32.15:539][437]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char2Anim/Looking_Around]
+[2026.02.25-13.32.15:539][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char2Anim/Looking_Around" FILE="../../../../../../Users/markelipeter/Documents/GitHub/UE5AnimFilm/Content/Char2Anim/Looking_Around.uasset" SILENT=true
+[2026.02.25-13.32.15:573][437]LogSavePackage: Moving output files for package: /Game/Char2Anim/Looking_Around
+[2026.02.25-13.32.15:573][437]LogSavePackage: Moving '../../../../../../Users/markelipeter/Documents/GitHub/UE5AnimFilm/Saved/Looking_Around46072B9D47FB5FEF37640F98C663280E.tmp' to '../../../../../../Users/markelipeter/Documents/GitHub/UE5AnimFilm/Content/Char2Anim/Looking_Around.uasset'
+[2026.02.25-13.32.15:617][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.948 ms
+[2026.02.25-13.32.15:712][437]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.25-13.32.15:712][437]LogContentValidation: Enabled validators:
+[2026.02.25-13.32.15:713][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-13.32.15:713][437]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-13.32.15:713][437]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-13.32.15:713][437]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-13.32.15:713][437]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-13.32.15:713][437]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-13.32.15:713][437]AssetCheck: /Game/Char2Anim/Looking_Around Validating asset
+[2026.02.25-13.32.15:804][437]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/markelipeter/Documents/GitHub/UE5AnimFilm/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.25-13.39.34:114][858]LogStreaming: Display: FlushAsyncLoading(729): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-13.39.34:181][858]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/markelipeter/Downloads/Backflip.fbx]
+[2026.02.25-13.39.35:521][858]LogSlate: Window 'Import Content' being destroyed
+[2026.02.25-13.39.35:596][858]LogInterchangeEngine: [Pending] Importing
+[2026.02.25-13.39.36:025][861]LogStreaming: Display: FlushAsyncLoading(730): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-13.39.36:109][862]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Char2Anim/Backflip.Backflip (Required Memory Estimate: 1.40 MB)
+[2026.02.25-13.39.36:147][862]LogInterchangeEngine: Display: Interchange import completed [C:/Users/markelipeter/Downloads/Backflip.fbx]
+[2026.02.25-13.39.36:160][862]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.02.25-13.39.36:160][863]LogInterchangeEngine: [Success] Import Done
+[2026.02.25-13.39.36:190][864]LogAnimationCompression: Display: Storing compressed animation data for /Game/Char2Anim/Backflip.Backflip, at AnimationSequence/4149b4143079ad49252806d15bbef8c2128aae6d
+[2026.02.25-13.39.38:969][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.25-13.39.40:087][908]LogSlate: Window 'Save Content' being destroyed
+[2026.02.25-13.39.40:139][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-13.39.40:227][908]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Char2Anim/Backflip] ([1] browsable assets)...
+[2026.02.25-13.39.40:239][908]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Char2Anim/Backflip.Backflip]
+[2026.02.25-13.39.40:241][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char2Anim/Backflip]
+[2026.02.25-13.39.40:241][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char2Anim/Backflip" FILE="../../../../../../Users/markelipeter/Documents/GitHub/UE5AnimFilm/Content/Char2Anim/Backflip.uasset" SILENT=true
+[2026.02.25-13.39.40:270][908]LogSavePackage: Moving output files for package: /Game/Char2Anim/Backflip
+[2026.02.25-13.39.40:272][908]LogSavePackage: Moving '../../../../../../Users/markelipeter/Documents/GitHub/UE5AnimFilm/Saved/Backflip41842CBF45B74282B2A1B19031AB9A6B.tmp' to '../../../../../../Users/markelipeter/Documents/GitHub/UE5AnimFilm/Content/Char2Anim/Backflip.uasset'
+[2026.02.25-13.39.40:319][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 179.484 ms (total: 378.433 ms)
+[2026.02.25-13.39.40:421][908]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.25-13.39.40:421][908]LogContentValidation: Enabled validators:
+[2026.02.25-13.39.40:421][908]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-13.39.40:421][908]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-13.39.40:421][908]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-13.39.40:421][908]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-13.39.40:421][908]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-13.39.40:421][908]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-13.39.40:421][908]AssetCheck: /Game/Char2Anim/Backflip Validating asset
+[2026.02.25-13.39.40:483][909]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/markelipeter/Documents/GitHub/UE5AnimFilm/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.25-13.52.39:457][329]LogStreaming: Display: FlushAsyncLoading(731): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-13.52.39:525][329]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/markelipeter/Downloads/Crawl Backwards.fbx]
+[2026.02.25-13.52.40:876][329]LogSlate: Window 'Import Content' being destroyed
+[2026.02.25-13.52.40:947][329]LogInterchangeEngine: [Pending] Importing
+[2026.02.25-13.52.41:392][332]LogStreaming: Display: FlushAsyncLoading(732): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.25-13.52.41:495][333]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Char2Anim/Crawl_Backwards.Crawl_Backwards (Required Memory Estimate: 1.33 MB)
+[2026.02.25-13.52.41:528][333]LogInterchangeEngine: Display: Interchange import completed [C:/Users/markelipeter/Downloads/Crawl Backwards.fbx]
+[2026.02.25-13.52.41:540][333]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2026.02.25-13.52.41:540][333]LogInterchangeEngine: [Success] Import Done
+[2026.02.25-13.52.41:549][334]LogAnimationCompression: Display: Storing compressed animation data for /Game/Char2Anim/Crawl_Backwards.Crawl_Backwards, at AnimationSequence/75a3809462e21a4fd2e031f21f5e3d885c9299e1
+[2026.02.25-13.52.44:358][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.02.25-13.52.45:183][378]LogSlate: Window 'Save Content' being destroyed
+[2026.02.25-13.52.45:236][378]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.25-13.52.45:320][378]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Char2Anim/Crawl_Backwards] ([1] browsable assets)...
+[2026.02.25-13.52.45:334][378]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Char2Anim/Crawl_Backwards.Crawl_Backwards]
+[2026.02.25-13.52.45:334][378]OBJ SavePackage: Finished generating thumbnails for package [/Game/Char2Anim/Crawl_Backwards]
+[2026.02.25-13.52.45:334][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Char2Anim/Crawl_Backwards" FILE="../../../../../../Users/markelipeter/Documents/GitHub/UE5AnimFilm/Content/Char2Anim/Crawl_Backwards.uasset" SILENT=true
+[2026.02.25-13.52.45:364][378]LogSavePackage: Moving output files for package: /Game/Char2Anim/Crawl_Backwards
+[2026.02.25-13.52.45:364][378]LogSavePackage: Moving '../../../../../../Users/markelipeter/Documents/GitHub/UE5AnimFilm/Saved/Crawl_BackwardsDA77B11840EF78AE96B52CAE5D3D48AF.tmp' to '../../../../../../Users/markelipeter/Documents/GitHub/UE5AnimFilm/Content/Char2Anim/Crawl_Backwards.uasset'
+[2026.02.25-13.52.45:404][378]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.653 ms (total: 546.086 ms)
+[2026.02.25-13.52.45:498][378]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.25-13.52.45:498][378]LogContentValidation: Enabled validators:
+[2026.02.25-13.52.45:498][378]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.25-13.52.45:498][378]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.25-13.52.45:498][378]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.25-13.52.45:498][378]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.25-13.52.45:498][378]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.25-13.52.45:498][378]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.25-13.52.45:498][378]AssetCheck: /Game/Char2Anim/Crawl_Backwards Validating asset
+[2026.02.25-13.52.45:557][378]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/markelipeter/Documents/GitHub/UE5AnimFilm/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.25-13.52.46:426][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.02.25-13.52.46:540][395]LogStall: Shutdown...
+[2026.02.25-13.52.46:540][395]LogStall: Shutdown complete.
+[2026.02.25-13.52.46:634][395]LogSlate: Window 'NeoCity - Unreal Editor' being destroyed
+[2026.02.25-13.52.46:949][396]Cmd: QUIT_EDITOR
+[2026.02.25-13.52.46:950][396]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.02.25-13.52.46:962][396]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.02.25-13.52.46:964][396]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.02.25-13.52.46:964][396]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.02.25-13.52.47:004][396]LogWorld: UWorld::CleanupWorld for Default, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-13.52.47:004][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-13.52.47:005][396]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Default.Default
+[2026.02.25-13.52.47:061][396]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.02.25-13.52.47:061][396]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.02.25-13.52.47:062][396]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.02.25-13.52.47:072][396]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-13.52.47:072][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-13.52.47:073][396]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-13.52.47:073][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-13.52.47:073][396]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-13.52.47:073][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-13.52.47:074][396]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-13.52.47:074][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-13.52.47:075][396]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-13.52.47:075][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-13.52.47:076][396]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-13.52.47:076][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-13.52.47:076][396]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.02.25-13.52.47:077][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.25-13.52.47:077][396]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.02.25-13.52.47:078][396]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.02.25-13.52.47:093][396]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.02.25-13.52.47:100][396]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.02.25-13.52.47:100][396]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.02.25-13.52.47:100][396]LogAudio: Display: Audio Device unregistered from world 'Default'.
+[2026.02.25-13.52.47:100][396]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.02.25-13.52.47:100][396]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.02.25-13.52.47:106][396]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.02.25-13.52.47:120][396]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.02.25-13.52.47:120][396]LogAudio: Display: Audio Device Manager Shutdown
+[2026.02.25-13.52.47:198][396]LogWindowsTextInputMethodSystem: Activated input method: German (Austria) - (Keyboard).
+[2026.02.25-13.52.47:217][396]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.02.25-13.52.47:217][396]LogExit: Preparing to exit.
+[2026.02.25-13.52.47:332][396]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2026.02.25-13.52.48:188][396]LogEditorDataStorage: Deinitializing
+[2026.02.25-13.52.48:391][396]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.02.25-13.52.48:464][396]LogExit: Editor shut down
+[2026.02.25-13.52.48:482][396]LogExit: Transaction tracking system shut down
+[2026.02.25-13.52.48:929][396]LogExit: Object subsystem successfully closed.
+[2026.02.25-13.52.48:980][396]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.02.25-13.52.49:448][396]LogMemoryProfiler: Shutdown
+[2026.02.25-13.52.49:448][396]LogNetworkingProfiler: Shutdown
+[2026.02.25-13.52.49:448][396]LoadingProfiler: Shutdown
+[2026.02.25-13.52.49:448][396]LogTimingProfiler: Shutdown
+[2026.02.25-13.52.49:450][396]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.02.25-13.52.49:450][396]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.02.25-13.52.49:978][396]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.02.25-13.52.50:013][396]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.02.25-13.52.50:013][396]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF685281B-47A5-22D0-13C7-D3BE49A612A3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=5760b8764c042361b15331aa8fa92313%7Cfaab30174de14341af30b089bb74a793%7C69518b80-1489-4af9-887e-9b7b41f9aa96&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.02.25-13.52.50:072][396]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.02.25-13.52.50:098][396]LogNFORDenoise: NFORDenoise function shutting down
+[2026.02.25-13.52.50:100][396]RenderDocPlugin: plugin has been unloaded.
+[2026.02.25-13.52.50:107][396]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.02.25-13.52.50:107][396]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.02.25-13.52.50:107][396]LogPakFile: Destroying PakPlatformFile
+[2026.02.25-13.52.50:127][396]LogD3D11RHI: Shutdown
+[2026.02.25-13.52.50:127][396]LogD3D11RHI: CleanupD3DDevice
+[2026.02.25-13.52.50:334][396]LogD3D11RHI: Intel Extensions Framework unloaded
+[2026.02.25-13.52.50:496][396]LogExit: Exiting.
+[2026.02.25-13.52.50:608][396]Log file closed, 02/25/26 14:52:50
